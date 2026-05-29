@@ -91,7 +91,7 @@ function malzemeManifestoGoster() {
   `;
 
   document.getElementById('malzemeManifestoOnizleme').innerHTML = onizlemeHtml;
-
+ 
   // Malzeme tablosu
   let toplamAgirlik = 0;
   let toplamHacim = 0;
